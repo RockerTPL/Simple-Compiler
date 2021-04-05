@@ -1,0 +1,1 @@
+/usr/bin/gcc  -Wall -g  -rdynamic CMakeFiles/testTools.dir/tools/OpTree.c.o CMakeFiles/testTools.dir/tools/Stack.c.o CMakeFiles/testTools.dir/tools/testTools.c.o  -o testTools 

@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="PLT_projet"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/andy/文档/tpl/PLT_projet/cmake-build-debug-17216131175"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/andy/文档/tpl/PLT_projet/cmake-build-debug-17216131175/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/andy/文档/tpl/PLT_projet/cmake-build-debug-17216131175/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/home/andy/文档/tpl/PLT_projet/cmake-build-debug-17216131175/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/home/andy/文档/tpl/PLT_projet/cmake-build-debug-17216131175/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="anasyn">
+				<Option output="/home/andy/文档/tpl/PLT_projet/cmake-build-debug-17216131175/anasyn" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/andy/文档/tpl/PLT_projet/cmake-build-debug-17216131175"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/andy/文档/tpl/PLT_projet/cmake-build-debug-17216131175/Makefile&quot;  VERBOSE=1 anasyn"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/andy/文档/tpl/PLT_projet/cmake-build-debug-17216131175/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/home/andy/文档/tpl/PLT_projet/cmake-build-debug-17216131175/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/home/andy/文档/tpl/PLT_projet/cmake-build-debug-17216131175/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="anasyn/fast">
+				<Option output="/home/andy/文档/tpl/PLT_projet/cmake-build-debug-17216131175/anasyn" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/andy/文档/tpl/PLT_projet/cmake-build-debug-17216131175"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/andy/文档/tpl/PLT_projet/cmake-build-debug-17216131175/Makefile&quot;  VERBOSE=1 anasyn/fast"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/andy/文档/tpl/PLT_projet/cmake-build-debug-17216131175/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/home/andy/文档/tpl/PLT_projet/cmake-build-debug-17216131175/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/home/andy/文档/tpl/PLT_projet/cmake-build-debug-17216131175/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="execute">
+				<Option output="/home/andy/文档/tpl/PLT_projet/cmake-build-debug-17216131175/execute" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/andy/文档/tpl/PLT_projet/cmake-build-debug-17216131175"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/andy/文档/tpl/PLT_projet/cmake-build-debug-17216131175/Makefile&quot;  VERBOSE=1 execute"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/andy/文档/tpl/PLT_projet/cmake-build-debug-17216131175/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/home/andy/文档/tpl/PLT_projet/cmake-build-debug-17216131175/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/home/andy/文档/tpl/PLT_projet/cmake-build-debug-17216131175/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="execute/fast">
+				<Option output="/home/andy/文档/tpl/PLT_projet/cmake-build-debug-17216131175/execute" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/andy/文档/tpl/PLT_projet/cmake-build-debug-17216131175"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/andy/文档/tpl/PLT_projet/cmake-build-debug-17216131175/Makefile&quot;  VERBOSE=1 execute/fast"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/andy/文档/tpl/PLT_projet/cmake-build-debug-17216131175/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/home/andy/文档/tpl/PLT_projet/cmake-build-debug-17216131175/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/home/andy/文档/tpl/PLT_projet/cmake-build-debug-17216131175/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/andy/文档/tpl/PLT_projet/cmake-build-debug-17216131175"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/andy/文档/tpl/PLT_projet/cmake-build-debug-17216131175/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/andy/文档/tpl/PLT_projet/cmake-build-debug-17216131175/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/home/andy/文档/tpl/PLT_projet/cmake-build-debug-17216131175/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/home/andy/文档/tpl/PLT_projet/cmake-build-debug-17216131175/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="analex">
+				<Option output="/home/andy/文档/tpl/PLT_projet/cmake-build-debug-17216131175/analex" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/andy/文档/tpl/PLT_projet/cmake-build-debug-17216131175"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/andy/文档/tpl/PLT_projet/cmake-build-debug-17216131175/Makefile&quot;  VERBOSE=1 analex"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/andy/文档/tpl/PLT_projet/cmake-build-debug-17216131175/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/home/andy/文档/tpl/PLT_projet/cmake-build-debug-17216131175/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/home/andy/文档/tpl/PLT_projet/cmake-build-debug-17216131175/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="analex/fast">
+				<Option output="/home/andy/文档/tpl/PLT_projet/cmake-build-debug-17216131175/analex" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/andy/文档/tpl/PLT_projet/cmake-build-debug-17216131175"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/andy/文档/tpl/PLT_projet/cmake-build-debug-17216131175/Makefile&quot;  VERBOSE=1 analex/fast"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/andy/文档/tpl/PLT_projet/cmake-build-debug-17216131175/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/home/andy/文档/tpl/PLT_projet/cmake-build-debug-17216131175/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/home/andy/文档/tpl/PLT_projet/cmake-build-debug-17216131175/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="table">
+				<Option output="/home/andy/文档/tpl/PLT_projet/cmake-build-debug-17216131175/table" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/andy/文档/tpl/PLT_projet/cmake-build-debug-17216131175"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/andy/文档/tpl/PLT_projet/cmake-build-debug-17216131175/Makefile&quot;  VERBOSE=1 table"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/andy/文档/tpl/PLT_projet/cmake-build-debug-17216131175/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/home/andy/文档/tpl/PLT_projet/cmake-build-debug-17216131175/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/home/andy/文档/tpl/PLT_projet/cmake-build-debug-17216131175/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="table/fast">
+				<Option output="/home/andy/文档/tpl/PLT_projet/cmake-build-debug-17216131175/table" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/andy/文档/tpl/PLT_projet/cmake-build-debug-17216131175"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/andy/文档/tpl/PLT_projet/cmake-build-debug-17216131175/Makefile&quot;  VERBOSE=1 table/fast"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/andy/文档/tpl/PLT_projet/cmake-build-debug-17216131175/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/home/andy/文档/tpl/PLT_projet/cmake-build-debug-17216131175/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/home/andy/文档/tpl/PLT_projet/cmake-build-debug-17216131175/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/andy/文档/tpl/PLT_projet/cmake-build-debug-17216131175"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/andy/文档/tpl/PLT_projet/cmake-build-debug-17216131175/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/andy/文档/tpl/PLT_projet/cmake-build-debug-17216131175/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/home/andy/文档/tpl/PLT_projet/cmake-build-debug-17216131175/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/home/andy/文档/tpl/PLT_projet/cmake-build-debug-17216131175/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="test1">
+				<Option output="/home/andy/文档/tpl/PLT_projet/cmake-build-debug-17216131175/test1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/andy/文档/tpl/PLT_projet/cmake-build-debug-17216131175"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/andy/文档/tpl/PLT_projet/cmake-build-debug-17216131175/Makefile&quot;  VERBOSE=1 test1"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/andy/文档/tpl/PLT_projet/cmake-build-debug-17216131175/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/home/andy/文档/tpl/PLT_projet/cmake-build-debug-17216131175/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/home/andy/文档/tpl/PLT_projet/cmake-build-debug-17216131175/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="test1/fast">
+				<Option output="/home/andy/文档/tpl/PLT_projet/cmake-build-debug-17216131175/test1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/andy/文档/tpl/PLT_projet/cmake-build-debug-17216131175"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/andy/文档/tpl/PLT_projet/cmake-build-debug-17216131175/Makefile&quot;  VERBOSE=1 test1/fast"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/andy/文档/tpl/PLT_projet/cmake-build-debug-17216131175/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/home/andy/文档/tpl/PLT_projet/cmake-build-debug-17216131175/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/home/andy/文档/tpl/PLT_projet/cmake-build-debug-17216131175/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/andy/文档/tpl/PLT_projet/1_lex/analex.c">
+			<Option target="execute"/>
+			<Option target="analex"/>
+		</Unit>
+		<Unit filename="/home/andy/文档/tpl/PLT_projet/1_lex/analex.h">
+			<Option target="execute"/>
+			<Option target="analex"/>
+		</Unit>
+		<Unit filename="/home/andy/文档/tpl/PLT_projet/2_syn/calculate.c">
+			<Option target="anasyn"/>
+			<Option target="execute"/>
+			<Option target="table"/>
+		</Unit>
+		<Unit filename="/home/andy/文档/tpl/PLT_projet/2_syn/calculate.h">
+			<Option target="anasyn"/>
+			<Option target="execute"/>
+			<Option target="table"/>
+		</Unit>
+		<Unit filename="/home/andy/文档/tpl/PLT_projet/3_table/table.c">
+			<Option target="execute"/>
+			<Option target="table"/>
+		</Unit>
+		<Unit filename="/home/andy/文档/tpl/PLT_projet/3_table/table.h">
+			<Option target="execute"/>
+			<Option target="table"/>
+		</Unit>
+		<Unit filename="/home/andy/文档/tpl/PLT_projet/4_execute/execute.c">
+			<Option target="execute"/>
+		</Unit>
+		<Unit filename="/home/andy/文档/tpl/PLT_projet/4_execute/execute.h">
+			<Option target="execute"/>
+		</Unit>
+		<Unit filename="/home/andy/文档/tpl/PLT_projet/test/projet1.c">
+			<Option target="analex"/>
+		</Unit>
+		<Unit filename="/home/andy/文档/tpl/PLT_projet/test/projet2.c">
+			<Option target="anasyn"/>
+		</Unit>
+		<Unit filename="/home/andy/文档/tpl/PLT_projet/test/projet3.c">
+			<Option target="table"/>
+		</Unit>
+		<Unit filename="/home/andy/文档/tpl/PLT_projet/test/projet4.c">
+			<Option target="execute"/>
+		</Unit>
+		<Unit filename="/home/andy/文档/tpl/PLT_projet/test/test1.c">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/andy/文档/tpl/PLT_projet/tools/OpTree.c">
+			<Option target="anasyn"/>
+			<Option target="execute"/>
+			<Option target="table"/>
+		</Unit>
+		<Unit filename="/home/andy/文档/tpl/PLT_projet/tools/OpTree.h">
+			<Option target="anasyn"/>
+			<Option target="execute"/>
+			<Option target="table"/>
+		</Unit>
+		<Unit filename="/home/andy/文档/tpl/PLT_projet/tools/Stack.c">
+			<Option target="anasyn"/>
+			<Option target="execute"/>
+			<Option target="table"/>
+		</Unit>
+		<Unit filename="/home/andy/文档/tpl/PLT_projet/tools/Stack.h">
+			<Option target="anasyn"/>
+			<Option target="execute"/>
+			<Option target="table"/>
+		</Unit>
+		<Unit filename="/home/andy/文档/tpl/PLT_projet/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

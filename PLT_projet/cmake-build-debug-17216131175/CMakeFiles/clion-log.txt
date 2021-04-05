@@ -1,0 +1,4 @@
+/usr/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/andy/文档/tpl/PLT_projet
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/andy/文档/tpl/PLT_projet/cmake-build-debug-17216131175

@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/andy/文档/tpl/PLT_projet/tools/Stack.c
+Stack.h
+/home/andy/文档/tpl/PLT_projet/tools/Stack.h
+
+/home/andy/文档/tpl/PLT_projet/tools/Stack.h
+stdio.h
+-
+stdlib.h
+-
+memory.h
+-
+
+/home/andy/文档/tpl/PLT_projet/tools/testTools.c
+stdio.h
+-
+Stack.h
+/home/andy/文档/tpl/PLT_projet/tools/Stack.h
+

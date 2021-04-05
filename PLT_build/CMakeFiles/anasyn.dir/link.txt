@@ -1,0 +1,1 @@
+/usr/bin/gcc  -Wall  -rdynamic CMakeFiles/anasyn.dir/test/projet2.c.o CMakeFiles/anasyn.dir/2_syn/calculate.c.o CMakeFiles/anasyn.dir/tools/OpTree.c.o CMakeFiles/anasyn.dir/tools/Stack.c.o  -o anasyn 

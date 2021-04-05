@@ -1,0 +1,1 @@
+/usr/bin/gcc  -Wall  -rdynamic CMakeFiles/analex.dir/test/projet1.c.o CMakeFiles/analex.dir/1_lex/analex.c.o  -o analex 

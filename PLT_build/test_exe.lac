@@ -1,0 +1,111 @@
+\ File "test_exe.lac"
+
+( This file is used to test
+ the execution of a lac file)
+
+
+
+\ base function test
+2 3 4 + * .
+2 3 4 * - 5 6 + * .
+
+
+
+\ function definition
+: incr 1 + ;
+: 2+. incr incr . ;
+123 2+.
+
+
+
+
+\ void function
+: none ;
+
+none
+
+
+\ condition definition
+: 0= 0 = ;
+
+: checkZero
+    0=
+    if
+        " True!
+" count type
+    else
+        " False!
+" count type
+    then " Finish checking.
+" count type ;
+
+
+
+\ condition test
+3 - dup
+" > Value in dataStack: " count type
+.
+" Check zero: " count type
+checkZero
+
+0 dup
+" > Value in dataStack: " count type
+.
+" Check zero: " count type
+checkZero
+
+
+
+\ nesting condition definition
+: checkTwoZeros
+    0=
+    if
+        " The second element is zero, checking the first element...
+" count type
+        0=
+        if
+            " The first element is zero, the result is True!
+" count type
+
+        else
+            " The first element is not zero, the result is False!
+" count type
+
+        then
+
+    else
+        " The second element is not zero, checking the first element...
+" count type
+        0=
+        if
+            " The first element is zero, the result is False!
+" count type
+
+        else
+            " The first element is not zero, the result is False!
+" count type
+
+        then
+
+    then " Finish checking.
+" count type ;
+
+
+
+\ nesting condition test
+1 - dup
+" > First element in dataStack: " count type
+.
+0 dup
+" > Second element in dataStack: " count type
+.
+checkTwoZeros
+
+
+
+\ calculate
+" > Calculate expression:
+" count type
+" -(1-2)+(3-4)x(-5)" dup count type
+"  = " count type
+calculate .

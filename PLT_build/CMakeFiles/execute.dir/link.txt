@@ -1,0 +1,1 @@
+/usr/bin/gcc  -Wall  -rdynamic CMakeFiles/execute.dir/test/projet4.c.o CMakeFiles/execute.dir/1_lex/analex.c.o CMakeFiles/execute.dir/2_syn/calculate.c.o CMakeFiles/execute.dir/3_table/table.c.o CMakeFiles/execute.dir/4_execute/execute.c.o CMakeFiles/execute.dir/tools/OpTree.c.o CMakeFiles/execute.dir/tools/Stack.c.o  -o execute 

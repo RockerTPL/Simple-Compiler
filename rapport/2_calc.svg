@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 960 540" style="enable-background:new 0 0 960 540;" xml:space="preserve">
+<style type="text/css">
+	.st0{clip-path:url(#SVGID_2_);fill:#FFFFFF;}
+	.st1{fill:#FFFFFF;}
+	.st2{fill:none;stroke:#000000;stroke-width:2;stroke-miterlimit:8;}
+	.st3{font-family:'TimesNewRomanPSMT';}
+	.st4{font-size:24px;}
+</style>
+<g>
+	<defs>
+		<rect id="SVGID_1_" width="959.76" height="540"/>
+	</defs>
+	<clipPath id="SVGID_2_">
+		<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+	</clipPath>
+	<rect class="st0" width="959.76" height="540"/>
+</g>
+<rect class="st1" width="960" height="540"/>
+<ellipse class="st2" cx="128.18" cy="298.22" rx="23.17" ry="22.48"/>
+<text transform="matrix(1 0 0 1 122.0483 306.7197)" class="st3 st4">0</text>
+<ellipse class="st2" cx="443.48" cy="109.25" rx="35.69" ry="29.74"/>
+<text transform="matrix(1 0 0 1 419.4258 117.6001)" class="st3 st4">+ (1)</text>
+<ellipse class="st2" cx="770.14" cy="297.59" rx="38.09" ry="29.74"/>
+<text transform="matrix(1 0 0 1 743.2549 306)" class="st3 st4">- (11)</text>
+<ellipse class="st2" cx="657.68" cy="189.01" rx="35.69" ry="29.74"/>
+<text transform="matrix(1 0 0 1 636.685 197.52)" class="st3 st4">x (2)</text>
+<ellipse class="st2" cx="268.61" cy="189.01" rx="35.69" ry="29.74"/>
+<text transform="matrix(1 0 0 1 244.5547 197.52)" class="st3 st4">- (1)</text>
+<ellipse class="st2" cx="342.38" cy="297.84" rx="38.09" ry="29.74"/>
+<text transform="matrix(1 0 0 1 315.4937 306.2402)" class="st3 st4">- (11)</text>
+<ellipse class="st2" cx="556.26" cy="297.84" rx="38.09" ry="29.74"/>
+<text transform="matrix(1 0 0 1 529.3737 306.2402)" class="st3 st4">- (11)</text>
+<ellipse class="st2" cx="827.15" cy="415.87" rx="23.17" ry="22.48"/>
+<text transform="matrix(1 0 0 1 821.0244 424.3203)" class="st3 st4">5</text>
+<ellipse class="st2" cx="622" cy="415.87" rx="23.17" ry="22.48"/>
+<text transform="matrix(1 0 0 1 615.8662 424.3203)" class="st3 st4">4</text>
+<ellipse class="st2" cx="502.34" cy="415.89" rx="23.17" ry="22.48"/>
+<text transform="matrix(1 0 0 1 496.208 424.3203)" class="st3 st4">3</text>
+<ellipse class="st2" cx="399.64" cy="415.89" rx="23.17" ry="22.48"/>
+<text transform="matrix(1 0 0 1 393.5068 424.3203)" class="st3 st4">2</text>
+<ellipse class="st2" cx="261.77" cy="415.89" rx="23.17" ry="22.48"/>
+<text transform="matrix(1 0 0 1 255.6382 424.3203)" class="st3 st4">1</text>
+<ellipse class="st2" cx="716.16" cy="415.87" rx="23.17" ry="22.48"/>
+<text transform="matrix(1 0 0 1 710.0283 424.3203)" class="st3 st4">0</text>
+<line class="st2" x1="299.08" y1="172.71" x2="418.24" y2="130.28"/>
+<line class="st2" x1="468.71" y1="130.28" x2="632.45" y2="167.99"/>
+<line class="st2" x1="144.56" y1="282.32" x2="240.77" y2="207.19"/>
+<line class="st2" x1="583.19" y1="276.81" x2="633.68" y2="211.41"/>
+<line class="st2" x1="261.77" y1="393.41" x2="319.78" y2="321.5"/>
+<line class="st2" x1="502.34" y1="393.41" x2="537.42" y2="323.41"/>
+<line class="st2" x1="716.16" y1="393.38" x2="754.51" y2="323.41"/>
+<line class="st2" x1="399.64" y1="393.41" x2="355.53" y2="326.29"/>
+<line class="st2" x1="622" y1="393.38" x2="578.37" y2="321.96"/>
+<line class="st2" x1="827.15" y1="393.38" x2="786.41" y2="323.41"/>
+<line class="st2" x1="324.91" y1="272.15" x2="287.16" y2="214.19"/>
+<line class="st2" x1="743.21" y1="276.56" x2="679.82" y2="210.04"/>
+</svg>

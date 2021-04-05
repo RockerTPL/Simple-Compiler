@@ -1,0 +1,7 @@
+/home/andy/文档/tpl/PLT_build/CMakeFiles/anasyn.dir
+/home/andy/文档/tpl/PLT_build/CMakeFiles/execute.dir
+/home/andy/文档/tpl/PLT_build/CMakeFiles/edit_cache.dir
+/home/andy/文档/tpl/PLT_build/CMakeFiles/analex.dir
+/home/andy/文档/tpl/PLT_build/CMakeFiles/table.dir
+/home/andy/文档/tpl/PLT_build/CMakeFiles/rebuild_cache.dir
+/home/andy/文档/tpl/PLT_build/CMakeFiles/test1.dir

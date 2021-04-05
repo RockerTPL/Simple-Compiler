@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/andy/文档/tpl/PLT_projet/1_lex/analex.c
+analex.h
+/home/andy/文档/tpl/PLT_projet/1_lex/analex.h
+
+/home/andy/文档/tpl/PLT_projet/1_lex/analex.h
+stdio.h
+-
+regex.h
+-
+stdlib.h
+-
+string.h
+-
+
+/home/andy/文档/tpl/PLT_projet/test/projet1.c
+stdio.h
+-
+../1_lex/analex.h
+/home/andy/文档/tpl/PLT_projet/1_lex/analex.h
+

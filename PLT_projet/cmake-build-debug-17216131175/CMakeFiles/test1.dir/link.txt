@@ -1,0 +1,1 @@
+/usr/bin/gcc  -Wall -g  -rdynamic CMakeFiles/test1.dir/test/test1.c.o  -o test1 
