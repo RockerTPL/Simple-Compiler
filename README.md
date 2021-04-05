@@ -1,22 +1,3 @@
-<center>
-<b>
-<font face="Times New Roman" size=6>
-    PLT Projet - Rapport
-</font>
-<font face="Times New Roman" size=3>
-    <br>Andy - TIAN Peilin
-    <br>517261910018
-    <br>2020.12.24
-</font>
-</b>
-</center>
-
-
-
-
-
-[TOC]
-
 ##  1. Introduction
 
 ### 1.1. Objectif
@@ -136,7 +117,7 @@ l'analyseur lexical écrit en phase 1 du projet)
 
 Pour l'exécution, on peut entrer dans le terminal `./analex` dans le dossier **PLT_build**. Puis on obtient le résultat de l'analyse lexicale:
 
-![1_lex](/Users/andy/Documents/College/Year4_1/4_PLT/PLT_Projet_Git/rapport/1_lex.png)
+![1_lex](rapport/1_lex.png)
 
 On trouve que les commentaires sont supprimés, et que les entiers naturels (N), les mots (M) et les chaînes de caractères (S) sont bien distingués.
 
@@ -175,7 +156,7 @@ On introduit ici deux méthodes pour l'analyse syntaxique: **Grammaire BNF** et 
 
   L'automate à pile est fourni comme suivant. L'état initial est l'état 0 et les états d'acceptation sont l'état 1, l'état 5 et l'état 6. Quand on rencontre une parenthèse ouvrante, on empile un élément $P$ et quand on rencontre une parenthèse fermante, on déplie un element $P$. À la fin, la pile doit être vide pour que l'expression soit correcte.
 
-  <img src="/Users/andy/Documents/College/Year4_1/4_PLT/PLT_Projet_Git/rapport/2_syn.svg" alt="2_syn" width="500" />
+  <img src="rapport/2_syn.svg" alt="2_syn" width="500" />
 
 Dans ce projet, on utilise la grammaire BNF pour l'analyse syntaxique, qui est réalisée dans la fonction **anaSynCal**.
 
@@ -205,13 +186,13 @@ Si on n'a pas d'erreur syntaxique dans l'expression mathématique, on peut calcu
 
 En appliquant cet algorithme sur une expression `"-(1-2)+(3-4)x(-5)"` qui est transformée en `"0-(1-2)+(3-4)x(0-5)"`, on peut avoir un arbre syntaxique comme suivant:
 
-<img src="/Users/andy/Documents/College/Year4_1/4_PLT/PLT_Projet_Git/rapport/2_calc.svg" alt="2_calc" width="500" />
+<img src="rapport/2_calc.svg" alt="2_calc" width="500" />
 
 La formation de l'arbre basée sur une chaîne de lexemes est réalisée dans la fonction **formOpTree**. Pour calculer le résultat, on lit l'arbre syntaxique par la traversée en ordre, qui est réalisée dans la fonction **calculateOpTree**. Enfin, on réalise la fonction **calculateC** par la transformation de chaîne de caractères, l'analyse lexicale, l'analyse syntaxique, la formation d'arbre syntaxique et le calcul de l'arbre, successivement.
 
 On teste ce fonctionnement par le fichier **projet2.c** dans le dossier **test** en utilisant l'expression `"-(1-2)+(3-4)x(-5)"`. Pour l'exécution, on peut entrer dans le terminal `./anasyn` dans le dossier **PLT_build**, et on obtient le résultat suivant:
 
-<img src="/Users/andy/Documents/College/Year4_1/4_PLT/PLT_Projet_Git/rapport/2_syn.png" alt="2_syn" width="400" />
+<img src="rapport/2_syn.png" alt="2_syn" width="400" />
 
 
 
@@ -293,7 +274,7 @@ void procBaseFunc(const char *funcName);
 
 On teste le fonctionnement de certaines fonctions de base par le fichier **projet3.c** dans le dossier **test**. On gère la pile de données manuellement et on utilise la fonction **procBaseFunc** pour réaliser l'exécution de `2 3 4 * - 5 6 + * .`. Pour l'exécution, on peut entrer dans le terminal `./table` dans le dossier **PLT_build**, et on obtient le résultat suivant:
 
-<img src="/Users/andy/Documents/College/Year4_1/4_PLT/PLT_Projet_Git/rapport/3_table.png" alt="3_table" width="500"  />
+<img src="rapport/3_table.png" alt="3_table" width="500"  />
 
 
 
@@ -493,7 +474,7 @@ Pour l'exécution, on peut entrer dans le terminal `./execute` dans le dossier *
 
 **Analyse lexicale**
 
-<img src="/Users/andy/Documents/College/Year4_1/4_PLT/PLT_Projet_Git/rapport/4-1.png" alt="4_lex" width="500" />
+<img src="rapport/4-1.png" alt="4_lex" width="500" />
 
 
 
@@ -507,7 +488,7 @@ Pour l'exécution, on peut entrer dans le terminal `./execute` dans le dossier *
 
 Résultat:
 
-<img src="/Users/andy/Documents/College/Year4_1/4_PLT/PLT_Projet_Git/rapport/4-2.png" alt="4-2" width="500" />
+<img src="rapport/4-2.png" alt="4-2" width="500" />
 
 
 
@@ -528,7 +509,7 @@ none
 
 Résultat:
 
-<img src="/Users/andy/Documents/College/Year4_1/4_PLT/PLT_Projet_Git/rapport/4-3.png" alt="4-3" width="500" />
+<img src="rapport/4-3.png" alt="4-3" width="500" />
 
 
 
@@ -563,7 +544,7 @@ checkZero
 
 Résultat:
 
-<img src="/Users/andy/Documents/College/Year4_1/4_PLT/PLT_Projet_Git/rapport/4-4.png" alt="4-4" width="500" />
+<img src="rapport/4-4.png" alt="4-4" width="500" />
 
 
 
@@ -610,7 +591,7 @@ checkTwoZeros
 
 Résultat:
 
-<img src="/Users/andy/Documents/College/Year4_1/4_PLT/PLT_Projet_Git/rapport/4-5.png" alt="4-5" width="500" />
+<img src="rapport/4-5.png" alt="4-5" width="500" />
 
 
 
@@ -627,7 +608,7 @@ calculate .
 
 Résultat:
 
-<img src="/Users/andy/Documents/College/Year4_1/4_PLT/PLT_Projet_Git/rapport/4-6.png" alt="4-6" width="500" />
+<img src="rapport/4-6.png" alt="4-6" width="500" />
 
 
 
